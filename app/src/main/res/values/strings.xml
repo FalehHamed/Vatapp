@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Vatapp</string>
+    <string name="total_amount">Total Amount: %s</string>
+</resources>
